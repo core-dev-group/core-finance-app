@@ -56,5 +56,5 @@ Unduh aplikasi resmi **Makima Finance** untuk Android tanpa iklan, dengan privas
 ---
 
 <p align="center">
-  <b>© 2026 Makima Finance — Devil's Ledger Edition. All Rights Reserved.</b>
+  <b>© 2026 Core Dev Group — Devil's Ledger Edition. All Rights Reserved.</b>
 </p>
