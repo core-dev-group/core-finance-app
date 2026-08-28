@@ -80,36 +80,6 @@ Didesain untuk memberikan rasa kontrol penuh atas keuangan Anda dengan estetika 
 
 ---
 
-## 🚀 Cara Instalasi & Menjalankan Aplikasi (*Getting Started*)
-
-### 1. Prasyarat (*Prerequisites*)
-Pastikan Anda telah menginstal lingkungan pengembangan Flutter di sistem Anda:
-- **Flutter SDK:** `>= 3.12.0`
-- **Dart SDK:** `>= 3.4.0`
-- **Android Studio / VS Code / Xcode** (untuk target mobile atau desktop)
-
-### 2. Langkah Instalasi
-```bash
-# 1. Clone repositori ini ke dalam direktori lokal Anda
-git clone https://github.com/kodel-dev/finance-makima.git
-cd finance-makima
-
-# 2. Unduh dan instal seluruh dependensi paket Dart & Flutter
-flutter pub get
-
-# 3. Jalankan pemeriksaan linter / static analysis (opsional, untuk memastikan kode bersih)
-flutter analyze
-
-# 4. Jalankan aplikasi di emulator atau perangkat fisik yang terhubung
-flutter run
-```
-
-### 3. Konfigurasi Khusus (Opsional)
-- **Gemini API Key:** Untuk menggunakan fitur Core AI Advisor dan Receipt Scanner, Anda harus mengatur API Key dari Google AI Studio melalui menu Pengaturan Profil di dalam aplikasi.
-- **Firebase:** Proyek ini menggunakan konfigurasi default `nam5 (United States)`. Anda dapat menimpa `google-services.json` (Android) atau `GoogleService-Info.plist` (iOS) dengan proyek Firebase Anda sendiri jika ingin melakukan self-hosting backend.
-
----
-
 ## 📁 Struktur Direktori (*Folder Structure*)
 
 ```text
