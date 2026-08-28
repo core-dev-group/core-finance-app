@@ -12,7 +12,7 @@
 ## 📥 Unduh Versi Terbaru (Download APK)
 Unduh aplikasi resmi **Core Finance** untuk Android tanpa iklan, dengan privasi penuh, dan didukung kecerdasan buatan:
 
-### 👉 **[📲 DOWNLOAD APK TERBARU (v1.5.0)](https://github.com/kodel-dev/Core-Finance/releases/latest)**
+### 👉 **[📲 DOWNLOAD APK TERBARU (v1.5.0)](https://github.com/kodel-dev/core-finance-app/releases/tag/1.5.0)**
 
 *(Klik tautan di atas, lalu pada halaman Rilis, unduh file **`app-release.apk`** di kolom **Assets**)*
 
@@ -48,7 +48,7 @@ Unduh aplikasi resmi **Core Finance** untuk Android tanpa iklan, dengan privasi 
 
 ## 📱 Cara Instalasi di Android
 
-1. Unduh file **`app-release.apk`** dari halaman **[Releases](https://github.com/kodel-dev/Core-Finance/releases/latest)**.
+1. Unduh file **`app-release.apk`** dari halaman **[Releases](https://github.com/kodel-dev/core-finance-app/releases/tag/1.5.0)**.
 2. Buka file APK yang sudah diunduh di ponsel Android Anda.
 3. Jika muncul peringatan keamanan, pilih **"Settings" / "Setelan"**, lalu aktifkan **"Allow from this source" (Izinkan dari sumber ini / Install Unknown Apps)**.
 4. Klik **Install**, dan aplikasi siap digunakan!
