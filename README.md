@@ -1,18 +1,18 @@
-# 🍷 Makima Finance — Devil's Ledger Edition
-> *"Pilihlah pengeluaranmu dengan bijak, karena aku akan mencatat setiap sen dari kesepakatan kita."* — **Makima**
+# 🍷 Core Finance
+> *"Pilihlah pengeluaranmu dengan bijak, karena aku akan mencatat setiap sen dari kesepakatan kita."* — **Core AI**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Version-v1.5.0-crimson?style=for-the-badge" alt="Version" />
-  <img src="https://img.shields.io/badge/AI-Llama%203.3%2070B-blueviolet?style=for-the-badge" alt="AI Powered" />
+  <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-blueviolet?style=for-the-badge" alt="AI Powered" />
 </p>
 
 ---
 
 ## 📥 Unduh Versi Terbaru (Download APK)
-Unduh aplikasi resmi **Makima Finance** untuk Android tanpa iklan, dengan privasi penuh, dan didukung kecerdasan buatan:
+Unduh aplikasi resmi **Core Finance** untuk Android tanpa iklan, dengan privasi penuh, dan didukung kecerdasan buatan:
 
-### 👉 **[📲 DOWNLOAD APK TERBARU (v1.5.0)](https://github.com/kodel-dev/makima-finance-app/releases/latest)**
+### 👉 **[📲 DOWNLOAD APK TERBARU (v1.5.0)](https://github.com/kodel-dev/Core-Finance/releases/latest)**
 
 *(Klik tautan di atas, lalu pada halaman Rilis, unduh file **`app-release.apk`** di kolom **Assets**)*
 
@@ -20,9 +20,9 @@ Unduh aplikasi resmi **Makima Finance** untuk Android tanpa iklan, dengan privas
 
 ## 🌟 Fitur Unggulan (Key Features)
 
-### 🤖 1. Makima AI Financial Advisor & OCR Scanner
-- **Konsultasi Keuangan 24/7:** Didukung oleh model AI canggih **Llama 3.3 70B** yang sadar akan waktu (Hari, Bulan, Tahun) serta menganalisis pola pengeluaran Anda.
-- **OCR Smart Scan:** Pindai struk belanja fisik Anda dengan kamera, dan biarkan Makima mencatat detail nominal serta kategorinya secara otomatis.
+### 🤖 1. Core AI Financial Advisor & OCR Scanner
+- **Konsultasi Keuangan 24/7:** Didukung oleh model AI canggih **Gemini 2.5 Flash** yang sadar akan waktu (Hari, Bulan, Tahun) serta menganalisis pola pengeluaran Anda.
+- **OCR Smart Scan:** Pindai struk belanja fisik Anda dengan kamera, dan biarkan Core AI mencatat detail nominal serta kategorinya secara otomatis.
 
 ### 💰 2. Smart Budgeting & Crimson Alert
 - Atur batas pengeluaran bulanan per kategori.
@@ -48,7 +48,7 @@ Unduh aplikasi resmi **Makima Finance** untuk Android tanpa iklan, dengan privas
 
 ## 📱 Cara Instalasi di Android
 
-1. Unduh file **`app-release.apk`** dari halaman **[Releases](https://github.com/kodel-dev/makima-finance-app/releases/latest)**.
+1. Unduh file **`app-release.apk`** dari halaman **[Releases](https://github.com/kodel-dev/Core-Finance/releases/latest)**.
 2. Buka file APK yang sudah diunduh di ponsel Android Anda.
 3. Jika muncul peringatan keamanan, pilih **"Settings" / "Setelan"**, lalu aktifkan **"Allow from this source" (Izinkan dari sumber ini / Install Unknown Apps)**.
 4. Klik **Install**, dan aplikasi siap digunakan!
@@ -56,5 +56,5 @@ Unduh aplikasi resmi **Makima Finance** untuk Android tanpa iklan, dengan privas
 ---
 
 <p align="center">
-  <b>© 2026 Core Dev Group — Devil's Ledger Edition. All Rights Reserved.</b>
+  <b>© 2026 Core Dev Group. All Rights Reserved.</b>
 </p>
